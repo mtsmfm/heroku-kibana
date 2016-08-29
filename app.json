@@ -16,7 +16,6 @@
       "required": true
     }
   },
-  "addons": [ "bonsai:staging" ],
   "buildpacks": [
     {
       "url": "https://github.com/omc/heroku-buildpack-kibana"
